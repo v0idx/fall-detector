@@ -32,3 +32,7 @@ Then rename the file to `info.h` so the provided values can be used within the p
 ## Current Ability
 
 When built and flashed to an ESP32, that has been connected to an MPU6500, button, and buzzer, detects a fall via acceleration and then sounds a buzzer, whilst publishing an event to an MQTT feed
+
+## Contributions
+
+Not currently accepting contributions for this project, as it is aimed at being a personal learning opportunity, and not intended for use or adoption at this stage.

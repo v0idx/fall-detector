@@ -30,3 +30,5 @@ Fill out `example-info.h` with required information as shown below:
 Then rename the file to `info.h` so the provided values can be used within the project.
 
 ## Current Ability
+
+When built and flashed to an ESP32, that has been connected to an MPU6500, button, and buzzer, detects a fall via acceleration and then sounds a buzzer, whilst publishing an event to an MQTT feed

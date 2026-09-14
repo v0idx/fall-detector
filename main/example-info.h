@@ -1,0 +1,6 @@
+#define WIFI_SSID ""
+#define WIFI_PASS ""
+#define FEED ""
+#define BROKER_URI ""
+#define BROKER_USER ""
+#define BROKER_PASS ""

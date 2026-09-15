@@ -1,6 +1,6 @@
 # fall-detector
 
-Simple fall detector, expanded from a university project, targetted at the ESP32 family of microcontrollers
+Simple fall detector, expanded from a university project, targeted at the ESP32 family of microcontrollers
 
 ## TODO
 
